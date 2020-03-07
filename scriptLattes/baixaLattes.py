@@ -22,7 +22,7 @@
 #
 #
 
-import sys, time, random, re, os, cookielib
+import sys, time, random, re, os, cookiejar
 
 try:
     import mechanize

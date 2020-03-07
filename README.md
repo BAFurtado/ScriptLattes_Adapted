@@ -18,6 +18,14 @@ Second, adding `fcgouvea` new qualis analysis to it
 
 Third making a requirements list
 
+
+#### How to do it:
+1. You need to get Lattes ID of the researchers of interest. 
+Although only the IDs with no names or other information area available!
+On March 7, 2020, I found it here:
+[http://estatico.cnpq.br/bi/CNPQ/DadosAbertos/Lattes/IdentificadorLattes/identificador_lattes_20170708.zip]
+I had wrongly thought CVs were available, free of captcha or donwloadable from file. All False as of today.
+
 scriptLattes
 ------------
 

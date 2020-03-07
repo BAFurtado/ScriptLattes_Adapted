@@ -1,13 +1,14 @@
-	    python-all
-	    python-setuptools
-	    python-utidylib
-	    python-matplotlib
-	    python-levenshtein
-	    python-pygraphviz
-	    python-numpy tidy
-	    python-scipy
-	    python-imaging
-	    python-mechanize
-	    python-pandas
-	easy_install pytidylib
-	pip install beautifulsoup
+
+setuptools
+utidylib
+matplotlib
+python-levenshtein
+pygraphviz
+numpy
+scipy
+pillow
+mechanize
+pandas
+pytidylib
+beautifulsoup4
+cookiejar

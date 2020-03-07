@@ -23,9 +23,9 @@
 #
 
 
-import cookielib
+import http.cookiejar
 import time
-import urllib2
+import urllib
 import xml.dom.minidom
 import os.path
 import re

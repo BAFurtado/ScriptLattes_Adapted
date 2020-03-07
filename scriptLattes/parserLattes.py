@@ -63,6 +63,7 @@ from eventos.participacaoEmEvento import *
 
 sys.tracebacklimit = 0
 
+
 class ParserLattes(HTMLParser):
 
     identificador16 = ''
